@@ -1,0 +1,16 @@
+{
+    "name": "efront/install-base-project",
+    "type": "project",
+    "description": "Install base project",
+    "keywords": [],
+    "homepage": "https://efront.com.au",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Burns",
+            "email": "david.burns@efront.com.au",
+            "homepage": "https://efront.com.au",
+            "role": "Developer"
+        }
+    ],
+}
